@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "661966821191",
+    "firebase_url": "https://quarantim-59354.firebaseio.com",
+    "project_id": "quarantim-59354",
+    "storage_bucket": "quarantim-59354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661966821191:android:58fe467185ee17435d1e62",
+        "android_client_info": {
+          "package_name": "com.amartyakhan.quarantinegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661966821191-chlfjjjkfb04khnchlvn68ihqi3jcv2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amartyakhan.quarantinegram",
+            "certificate_hash": "39906a007d4fb2681aaa78cb560d2cc4edcdc561"
+          }
+        },
+        {
+          "client_id": "661966821191-5cl2sq41g729k9tbub8ra05qn5fvvdbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAanWeCq-4niEy4f3LzlTxwi6e7mYkWoQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661966821191-5cl2sq41g729k9tbub8ra05qn5fvvdbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
